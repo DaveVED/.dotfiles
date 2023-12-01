@@ -1,0 +1,18 @@
+VIM="nvim"
+
+# alias
+alias ll='ls -la'
+alias ld='ls -d */'
+alias la='ls -CA'
+alias l='ls'
+
+alias .='cd && ld'
+alias ..='cd .. && ld'
+alias ...='cd ../.. && ld'
+alias ,='cd'
+alias ,,='cd ..'
+alias ,,,='cd'
+
+hello(){
+  echo 'hello'
+}

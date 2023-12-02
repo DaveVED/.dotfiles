@@ -1,5 +1,3 @@
-VIM="nvim"
-
 # alias
 alias ll='ls -la'
 alias ld='ls -d */'
